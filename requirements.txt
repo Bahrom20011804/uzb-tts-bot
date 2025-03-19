@@ -9,6 +9,7 @@ sentencepiece==0.1.99
 pydub==0.25.1
 speechrecognition==3.14.1
 librosa==0.10.2.post1
+numpy==1.24.3
 pandas==1.5.3
 pywin32; sys_platform == "win32"
 
