@@ -14,3 +14,4 @@ pandas==1.5.3
 pywin32; sys_platform == "win32"
 pysrt==1.1.2
 python-dotenv==1.0.1
+gunicorn
